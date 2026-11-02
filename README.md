@@ -23,7 +23,7 @@ Video: VIDEO_URL (Context Harness #1: The one file that makes Claude do what you
 ## Notes
 
 - The last section of the global file, "delegation for context retrieving", mentions `~/.claude/scripts/cursor-delegate` and `cursor-quota`. Those are scripts on my machine and are not included here. Delete that paragraph or replace it with your own tooling.
-- The global file is not polished. It has a duplicated rule number and a typo. I kept it as it is because the video shows the real file, and because it works.
+- The global file is not polished. It has a duplicated rule number and a few typos. I kept it as it is because the video shows the real file, and because it works.
 - This is a living repo. I update it as my own setup changes.
 
 ## License
